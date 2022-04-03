@@ -1,5 +1,3 @@
-# ACD_6
-# ACD_6
 <html>
 <head>
 <title>
